@@ -37,4 +37,8 @@ https://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist
 https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Ntv Radyo
 https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Eksen Radyo
+https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Voyage Radyo
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
 
