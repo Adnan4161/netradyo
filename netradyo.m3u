@@ -43,8 +43,8 @@ https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
 https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Süper Fm
 https://25453.live.streamtheworld.com/SUPER_FM128AAC.aac?ttag=G:f,m,AG:2,3,SES:1,2,OC:1,2,3,4,6,INT:1,3,7,CH:3?/;stream.mp3
-
-
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8
 
 
 
