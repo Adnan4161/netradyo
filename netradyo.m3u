@@ -45,8 +45,8 @@ https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
 https://ssl4.radyotvonline.com/radyohome/palstationhome.stream_aac/chunklist_w2023793209.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",A Spor Radyo
 https://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8
-
-
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Radyo Alaturka
+https://yayin.jumboserver.net:9100/stream
 
 
 
