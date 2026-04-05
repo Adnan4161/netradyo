@@ -11,6 +11,8 @@ https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
 https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Best FM
 https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Doksanlar
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Eksen Radyo
 https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Fenomen Türk
@@ -47,6 +49,5 @@ https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
 https://radio-trttsr.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Voyage Radyo
 https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
-#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Doksanlar
-https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+
 
