@@ -49,8 +49,6 @@ https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8
 https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Rockland
 https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png" group-title="⚡Radyo",Süper FM 
-https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_ITUNES.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png" group-title="⚡Radyo",TRT Radyo 1 
 https://trt.radyotvonline.net/trt1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png" group-title="⚡Radyo",TRT FM 
