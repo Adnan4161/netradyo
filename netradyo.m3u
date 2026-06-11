@@ -49,6 +49,8 @@ https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8
 https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Rockland
 https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png" group-title="⚡Radyo",TGRT FM 
+https://5e6ab1e5b06a6.streamlock.net/tgrtfm_live/tgrtfm_yuksek/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png" group-title="⚡Radyo",TRT Radyo 1 
 https://trt.radyotvonline.net/trt1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png" group-title="⚡Radyo",TRT FM 
