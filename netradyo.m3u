@@ -15,6 +15,8 @@ https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
 https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Best FM
 https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Cnn Türk
+https://chunks3.radyotvonline.net/cnnturk/lBpiyK5iws5-596725865-2995.aac
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Doksanlar
 https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Ege Havaları
@@ -55,8 +57,6 @@ https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8
 https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚡Radyo" tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png",Rockland
 https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png" group-title="⚡Radyo",SüperFm
-https://25443.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=8cd35b07-14f7-446d-805e-ef0b5895a8e5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png" group-title="⚡Radyo",Tgrt FM 
 https://icecasttgrt.ihlasdigitalassets.com/tgrtfm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whs4WCZC/netradyo.png" group-title="⚡Radyo",TRT Radyo 1 
